@@ -6,25 +6,25 @@ function App() {
     {
       id: 1,
       text: "test1",
-      day: "test1",
+      day: "day1",
       reminder: true,
     },
     {
       id: 2,
       text: "test2",
-      day: "test3",
+      day: "day2",
       reminder: true,
     },
     {
       id: 3,
       text: "test3",
-      day: "test3",
+      day: "day3",
       reminder: true,
     },
     {
       id: 4,
       text: "test4",
-      day: "test4",
+      day: "day4",
       reminder: true,
     }
   ])
